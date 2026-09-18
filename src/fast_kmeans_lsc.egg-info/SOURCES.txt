@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/fast_kmeans_lsc/__init__.py
+src/fast_kmeans_lsc/core.py
+src/fast_kmeans_lsc.egg-info/PKG-INFO
+src/fast_kmeans_lsc.egg-info/SOURCES.txt
+src/fast_kmeans_lsc.egg-info/dependency_links.txt
+src/fast_kmeans_lsc.egg-info/requires.txt
+src/fast_kmeans_lsc.egg-info/top_level.txt
+tests/test_fast_kmeans_lsc.py
